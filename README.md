@@ -33,9 +33,9 @@ I am a Backend Software Engineer with a focus on fintech, microservices, and rob
 - **Achievements:** 5-Star Gold Badge on HackerRank (DSA), 500+ LeetCode/CodeChef problems, and significant global rankings in CodeChef Starters.
 
 ## 🏗️ Selected Projects Showcased
-- **Enterprise Digital Wallet:** High-throughput wallet supporting 500+ TPS with sub-200ms latency.
-- **High-Throughput UPI Switch:** Payment routing engine utilizing Kafka for async, event-driven processing.
-- **Hostel Desk:** Full-stack management platform (React, Node.js, MongoDB) for room allocation and student record management.
+- **Enterprise Digital Wallet:** High-throughput wallet supporting 500+ TPS with sub-200ms latency. [[GitHub](https://github.com/dheerajtocsi/Enterprise-Digital-Wallet)] [[Live Demo](https://enterprise-wallet-ui.onrender.com)]
+- **High-Throughput UPI Switch:** Payment routing engine utilizing Kafka for async, event-driven processing. [[GitHub](https://github.com/dheerajtocsi/High-Throughput-UPI-Switch)] [[Live Demo](https://funny-horse-f2d648.netlify.app/)]
+- **Hostel Desk (MNNIT ALLAHABAD):** Full-stack management platform (React, Node.js, MongoDB) for room allocation and student record management.
 - **Programming Journal:** Performant backend routing and API logic with SSR enabled via Node.js and EJS.
 
 ## 📬 Contact
